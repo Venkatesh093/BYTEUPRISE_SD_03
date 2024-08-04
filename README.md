@@ -1,18 +1,41 @@
-## Getting Started
+## Temperature Converter
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project is a Temperature Converter developed using Java with a graphical user interface (GUI). The application allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
+- **Convert from Celsius to Fahrenheit and Kelvin**
+- **Convert from Fahrenheit to Celsius and Kelvin**
+- **Convert from Kelvin to Celsius and Fahrenheit**
+- **User-Friendly Interface**: Intuitive and easy-to-use GUI for converting temperatures.
+  
+## Technologies Used
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Java**: The core programming language used for development.
+- **Swing**: Used for creating the graphical user interface.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Usage
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1. **Select the temperature scale to convert from**:
+   - Choose between Celsius, Fahrenheit, and Kelvin.
+2. **Enter the temperature value**:
+   - Input the temperature value you wish to convert.
+3. **Click the `Convert` button**:
+   - View the converted values in the respective fields.
 
-## Dependency Management
+## Contributing
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## Author
+
+**Venkatesh Mayakrishnan**
+
+- [LinkedIn](https://www.linkedin.com/in/venkatesh-m-199275246)
+- [GitHub](https://github.com/Venkatesh093)
